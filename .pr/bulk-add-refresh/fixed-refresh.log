@@ -1,0 +1,379 @@
+{
+  "ok": true,
+  "resumed": true,
+  "cutSeconds": 342.8
+}
+{
+  "ok": true,
+  "offline": false,
+  "online": true
+}
+{
+  "ok": true,
+  "active": 0,
+  "url": "http://127.0.0.1:18810/settings/llm"
+}
+{
+  "ok": true,
+  "state": "visible"
+}
+{
+  "ok": true,
+  "state": "attached"
+}
+{
+  "ok": true,
+  "value": {
+    "provider": "deepseek",
+    "connection": "",
+    "options": [
+      "No connection (keyless)",
+      "QA_refresh_RENAMED"
+    ],
+    "selected": [
+      "add-models-check-deepseek/deepseek-chat"
+    ],
+    "submit": "Add 1 profiles"
+  }
+}
+{
+  "ok": true,
+  "path": "/tmp/openhands-verify/bulk-fix-verified/evidence/F10.add-models/after-refresh-0.png",
+  "url": "http://127.0.0.1:18810/settings/llm",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  }
+}
+{
+  "ok": true,
+  "total": 22,
+  "byOrigin": {
+    "http://127.0.0.1:18810": 22
+  },
+  "recent": [
+    {
+      "ts": "2026-10-15T07:34:04.634Z",
+      "origin": "http://127.0.0.1:18810",
+      "path": "/api/llm/provider-connections",
+      "method": "GET",
+      "type": "fetch",
+      "app": true,
+      "status": 200
+    },
+    {
+      "ts": "2026-10-15T07:34:04.634Z",
+      "origin": "http://127.0.0.1:18810",
+      "path": "/api/llm/provider-connections",
+      "method": "GET",
+      "type": "fetch",
+      "app": true,
+      "status": 200
+    },
+    {
+      "ts": "2026-10-15T07:34:04.645Z",
+      "origin": "http://127.0.0.1:18810",
+      "path": "/api/llm/provider-connections",
+      "method": "GET",
+      "type": "fetch",
+      "app": true,
+      "status": 200
+    },
+    {
+      "ts": "2026-10-15T07:34:04.652Z",
+      "origin": "http://127.0.0.1:18810",
+      "path": "/api/llm/provider-connections",
+      "method": "GET",
+      "type": "fetch",
+      "app": true,
+      "status": 200
+    },
+    {
+      "ts": "2026-10-15T07:34:04.654Z",
+      "origin": "http://127.0.0.1:18810",
+      "path": "/api/llm/provider-connections",
+      "method": "GET",
+      "type": "fetch",
+      "app": true,
+      "status": 200
+    }
+  ]
+}
+{
+  "ok": true,
+  "active": 1,
+  "url": "http://127.0.0.1:18810/settings/llm"
+}
+{
+  "ok": true,
+  "state": "visible"
+}
+{
+  "ok": true,
+  "state": "attached"
+}
+{
+  "ok": true,
+  "value": {
+    "provider": "deepseek",
+    "connection": "",
+    "options": [
+      "No connection (keyless)",
+      "QA_refresh_RENAMED"
+    ],
+    "selected": [
+      "add-models-check-deepseek/deepseek-chat"
+    ],
+    "submit": "Add 1 profiles"
+  }
+}
+{
+  "ok": true,
+  "path": "/tmp/openhands-verify/bulk-fix-verified/evidence/F10.add-models/after-refresh-1.png",
+  "url": "http://127.0.0.1:18810/settings/llm",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  }
+}
+{
+  "ok": true,
+  "total": 22,
+  "byOrigin": {
+    "http://127.0.0.1:18810": 22
+  },
+  "recent": [
+    {
+      "ts": "2026-10-15T07:34:04.634Z",
+      "origin": "http://127.0.0.1:18810",
+      "path": "/api/llm/provider-connections",
+      "method": "GET",
+      "type": "fetch",
+      "app": true,
+      "status": 200
+    },
+    {
+      "ts": "2026-10-15T07:34:04.634Z",
+      "origin": "http://127.0.0.1:18810",
+      "path": "/api/llm/provider-connections",
+      "method": "GET",
+      "type": "fetch",
+      "app": true,
+      "status": 200
+    },
+    {
+      "ts": "2026-10-15T07:34:04.645Z",
+      "origin": "http://127.0.0.1:18810",
+      "path": "/api/llm/provider-connections",
+      "method": "GET",
+      "type": "fetch",
+      "app": true,
+      "status": 200
+    },
+    {
+      "ts": "2026-10-15T07:34:04.652Z",
+      "origin": "http://127.0.0.1:18810",
+      "path": "/api/llm/provider-connections",
+      "method": "GET",
+      "type": "fetch",
+      "app": true,
+      "status": 200
+    },
+    {
+      "ts": "2026-10-15T07:34:04.654Z",
+      "origin": "http://127.0.0.1:18810",
+      "path": "/api/llm/provider-connections",
+      "method": "GET",
+      "type": "fetch",
+      "app": true,
+      "status": 200
+    }
+  ]
+}
+{
+  "ok": true,
+  "active": 2,
+  "url": "http://127.0.0.1:18810/settings/llm"
+}
+{
+  "ok": true,
+  "state": "visible"
+}
+{
+  "ok": true,
+  "state": "attached"
+}
+{
+  "ok": true,
+  "value": {
+    "provider": "deepseek",
+    "connection": "",
+    "options": [
+      "No connection (keyless)",
+      "QA_refresh_RENAMED"
+    ],
+    "selected": [
+      "add-models-check-deepseek/deepseek-chat"
+    ],
+    "submit": "Add 1 profiles"
+  }
+}
+{
+  "ok": true,
+  "path": "/tmp/openhands-verify/bulk-fix-verified/evidence/F10.add-models/after-refresh-2.png",
+  "url": "http://127.0.0.1:18810/settings/llm",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  }
+}
+{
+  "ok": true,
+  "total": 22,
+  "byOrigin": {
+    "http://127.0.0.1:18810": 22
+  },
+  "recent": [
+    {
+      "ts": "2026-10-15T07:34:04.634Z",
+      "origin": "http://127.0.0.1:18810",
+      "path": "/api/llm/provider-connections",
+      "method": "GET",
+      "type": "fetch",
+      "app": true,
+      "status": 200
+    },
+    {
+      "ts": "2026-10-15T07:34:04.634Z",
+      "origin": "http://127.0.0.1:18810",
+      "path": "/api/llm/provider-connections",
+      "method": "GET",
+      "type": "fetch",
+      "app": true,
+      "status": 200
+    },
+    {
+      "ts": "2026-10-15T07:34:04.645Z",
+      "origin": "http://127.0.0.1:18810",
+      "path": "/api/llm/provider-connections",
+      "method": "GET",
+      "type": "fetch",
+      "app": true,
+      "status": 200
+    },
+    {
+      "ts": "2026-10-15T07:34:04.652Z",
+      "origin": "http://127.0.0.1:18810",
+      "path": "/api/llm/provider-connections",
+      "method": "GET",
+      "type": "fetch",
+      "app": true,
+      "status": 200
+    },
+    {
+      "ts": "2026-10-15T07:34:04.654Z",
+      "origin": "http://127.0.0.1:18810",
+      "path": "/api/llm/provider-connections",
+      "method": "GET",
+      "type": "fetch",
+      "app": true,
+      "status": 200
+    }
+  ]
+}
+{
+  "ok": true,
+  "active": 3,
+  "url": "http://127.0.0.1:18810/settings/llm"
+}
+{
+  "ok": true,
+  "state": "visible"
+}
+{
+  "ok": true,
+  "state": "attached"
+}
+{
+  "ok": true,
+  "value": {
+    "provider": "deepseek",
+    "connection": "",
+    "options": [
+      "No connection (keyless)",
+      "QA_refresh_RENAMED"
+    ],
+    "selected": [
+      "add-models-check-deepseek/deepseek-chat"
+    ],
+    "submit": "Add 1 profiles"
+  }
+}
+{
+  "ok": true,
+  "path": "/tmp/openhands-verify/bulk-fix-verified/evidence/F10.add-models/after-refresh-3.png",
+  "url": "http://127.0.0.1:18810/settings/llm",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  }
+}
+{
+  "ok": true,
+  "total": 22,
+  "byOrigin": {
+    "http://127.0.0.1:18810": 22
+  },
+  "recent": [
+    {
+      "ts": "2026-10-15T07:34:04.634Z",
+      "origin": "http://127.0.0.1:18810",
+      "path": "/api/llm/provider-connections",
+      "method": "GET",
+      "type": "fetch",
+      "app": true,
+      "status": 200
+    },
+    {
+      "ts": "2026-10-15T07:34:04.634Z",
+      "origin": "http://127.0.0.1:18810",
+      "path": "/api/llm/provider-connections",
+      "method": "GET",
+      "type": "fetch",
+      "app": true,
+      "status": 200
+    },
+    {
+      "ts": "2026-10-15T07:34:04.645Z",
+      "origin": "http://127.0.0.1:18810",
+      "path": "/api/llm/provider-connections",
+      "method": "GET",
+      "type": "fetch",
+      "app": true,
+      "status": 200
+    },
+    {
+      "ts": "2026-10-15T07:34:04.652Z",
+      "origin": "http://127.0.0.1:18810",
+      "path": "/api/llm/provider-connections",
+      "method": "GET",
+      "type": "fetch",
+      "app": true,
+      "status": 200
+    },
+    {
+      "ts": "2026-10-15T07:34:04.654Z",
+      "origin": "http://127.0.0.1:18810",
+      "path": "/api/llm/provider-connections",
+      "method": "GET",
+      "type": "fetch",
+      "app": true,
+      "status": 200
+    }
+  ]
+}
+{
+  "ok": true,
+  "paused": true
+}
+Thu Oct 15 07:34:06 UTC 2026

@@ -1,0 +1,205 @@
+{
+  "ok": true,
+  "resumed": true,
+  "cutSeconds": 18.8
+}
+{
+  "ok": true,
+  "active": 0,
+  "url": "http://127.0.0.1:18810/settings/llm"
+}
+{
+  "ok": true,
+  "value": ""
+}
+{
+  "ok": true,
+  "url": "http://127.0.0.1:18810/settings/llm"
+}
+{
+  "ok": true,
+  "state": "detached"
+}
+{
+  "ok": true,
+  "state": "visible"
+}
+{
+  "ok": true,
+  "path": "/tmp/openhands-verify/bulk-fix-verified/evidence/F10.add-models/saved-keyless-profile.png",
+  "url": "http://127.0.0.1:18810/settings/llm",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  }
+}
+{
+  "ok": true,
+  "status": 200,
+  "contentType": "application/json",
+  "body": {
+    "profiles": [
+      {
+        "name": "deepseek-chat",
+        "model": "deepseek/deepseek-chat",
+        "base_url": null,
+        "provider_connection_id": null,
+        "provider_connection_broken": false,
+        "api_key_set": false
+      }
+    ],
+    "active_profile": "deepseek-chat"
+  }
+}
+{
+  "ok": true,
+  "status": 200,
+  "pick": "config.provider_connection_id",
+  "value": null
+}
+{
+  "ok": true,
+  "url": "http://127.0.0.1:18810/settings/llm"
+}
+{
+  "ok": true,
+  "state": "visible"
+}
+{
+  "ok": true,
+  "path": "/tmp/openhands-verify/bulk-fix-verified/evidence/F10.add-models/saved-profile-after-reload.png",
+  "url": "http://127.0.0.1:18810/settings/llm",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  }
+}
+{
+  "ok": true,
+  "url": "http://127.0.0.1:18810/settings/llm"
+}
+{
+  "ok": true,
+  "url": "http://127.0.0.1:18810/settings/llm"
+}
+{
+  "ok": true,
+  "state": "visible"
+}
+{
+  "ok": true,
+  "value": "3ed51249a39547ceb8b3ff83d282bb92"
+}
+{
+  "ok": true,
+  "path": "/tmp/openhands-verify/bulk-fix-verified/evidence/F10.add-models/row-reopened-defaults.png",
+  "url": "http://127.0.0.1:18810/settings/llm",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  }
+}
+{
+  "ok": true,
+  "url": "http://127.0.0.1:18810/settings/llm"
+}
+{
+  "ok": true,
+  "url": "http://127.0.0.1:18810/settings/llm"
+}
+{
+  "ok": true,
+  "value": ""
+}
+{
+  "ok": true,
+  "path": "/tmp/openhands-verify/bulk-fix-verified/evidence/F10.add-models/chooser-reopened-empty.png",
+  "url": "http://127.0.0.1:18810/settings/llm",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  }
+}
+{
+  "ok": true,
+  "url": "http://127.0.0.1:18810/settings/llm"
+}
+{
+  "ok": true,
+  "viewport": {
+    "width": 390,
+    "height": 844
+  }
+}
+{
+  "ok": true,
+  "url": "http://127.0.0.1:18810/settings/llm"
+}
+{
+  "ok": true,
+  "selected": [
+    "deepseek"
+  ]
+}
+{
+  "ok": true,
+  "state": "visible"
+}
+{
+  "ok": true,
+  "selected": [
+    ""
+  ]
+}
+{
+  "ok": true,
+  "path": "/tmp/openhands-verify/bulk-fix-verified/evidence/F10.add-models/phone-keyless.png",
+  "url": "http://127.0.0.1:18810/settings/llm",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  }
+}
+{
+  "ok": true,
+  "box": {
+    "x": 44.5,
+    "y": 178,
+    "width": 301,
+    "height": 468
+  },
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "insideViewport": true,
+  "overflow": {
+    "scrollWidth": 301,
+    "clientWidth": 301,
+    "scrollHeight": 468,
+    "clientHeight": 468
+  },
+  "pageHorizontalOverflow": false
+}
+{
+  "ok": true,
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  }
+}
+{
+  "ok": true,
+  "path": "/tmp/openhands-verify/bulk-fix-verified/evidence/F10.add-models/refresh-comparison.webm",
+  "seconds": 19,
+  "recordedSeconds": 380,
+  "size": "1440x1000",
+  "fps": 5,
+  "captures": 91,
+  "changes": 56,
+  "misses": 0,
+  "capped": false,
+  "cutSeconds": 361.6,
+  "url": "http://127.0.0.1:18810/settings/llm",
+  "gifError": "/home/kws/.cache/ms-playwright/ffmpeg-1011/ffmpeg-linux cannot write GIF; install ffmpeg for --gif"
+}
